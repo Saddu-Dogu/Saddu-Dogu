@@ -2,18 +2,16 @@
 
 # Saddu Dogu 👋
 
-### `ai + automation + web`
-
-`🤖 ai` &nbsp; `⚡ automation` &nbsp; `🌐 web` &nbsp; `☕ coffee-powered`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=building+random+things+that+seem+useful;ai+%2B+automation+%2B+web;probably+working+on+another+side+project..." alt="Typing animation" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,python,cloudflare,github,vscode&theme=dark" />
+`🤖 ai` &nbsp; `⚡ automation` &nbsp; `🌐 web` &nbsp; `☕ coffee-powered`
 
 <br><br>
 
 messing around with **AI agents**, **WhatsApp bots**,  
-**automations**, dashboards, and whatever idea shows up next.
+**automations**, dashboards, creative tools, and whatever idea shows up next.
 
 <br>
 
@@ -22,6 +20,38 @@ idea → build → break → fix → somehow works ✨
 </pre>
 
 <br>
+
+</div>
+
+<div align="center">
+
+## what i use
+
+### building
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,py,php,html,bots&theme=dark" alt="JavaScript, Python, PHP, HTML, and bots" />
+</a>
+
+### shipping & platforms
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel,github,windows&theme=dark" alt="Cloudflare, Netlify, Vercel, GitHub, and Windows" />
+</a>
+
+### editors & IDEs
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,webstorm&theme=dark" alt="VS Code, PhpStorm, PyCharm, and WebStorm" />
+</a>
+
+### creative tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ae,au,ps,pr&theme=dark" alt="After Effects, Audition, Photoshop, and Premiere Pro" />
+</a>
+
+<br><br>
 
 </div>
 

@@ -10,8 +10,8 @@
 
 <br><br>
 
-messing around with **AI agents**, **WhatsApp bots**,  
-**automations**, dashboards, creative tools, and whatever idea shows up next.
+Exploring where **AI, automation, web development, and digital creativity** overlap.  
+I mostly vibe code—starting with a loose idea, building quickly, and refining it until it becomes something useful.
 
 <br>
 
